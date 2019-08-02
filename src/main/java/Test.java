@@ -1,6 +1,8 @@
+
 public class Test {
 
     public static void main(String args[]){
-        System.out.println("This is the main method");
+        String TestUrl = "http://google.lk";
+        BackgroundSetup TestObject = new BackgroundSetup(TestUrl);
     }
 }

@@ -8,5 +8,17 @@
     <artifactId>SJ1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+    <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.0.0-alpha-2</version>
+    </dependency>
+    </dependencies>
+
 
 </project>
+
+
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
